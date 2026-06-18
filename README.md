@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://camera-record-pro.github.io/.github">  
+<a href="https://luislambiffq.github.io/.github/Camera-Record-Pro">  
 <img src="https://img.shields.io/badge/⬇️_GET_INSTALLATION_INSTRUCTION-darkred?style=for-the-badge&logo=apple" alt="Install Camera Record Pro on MacBook">  
 </a>  
 </div>  
