@@ -98,11 +98,7 @@ Whether you’re creating training content, live-streaming gameplay, producing c
 - 🏢 Businesses recording corporate training.  
 
 
-<div align="center">  
-<a href="https://camera-record-pro.github.io/.github">  
-<img src="https://img.shields.io/badge/⬇️_GET_INSTALLATION_INSTRUCTION-darkred?style=for-the-badge&logo=apple" alt="Install Camera Record Pro on MacBook">  
-</a>  
-</div>  
+[![Try Camera Record Pro](https://img.shields.io/badge/Try-Camera%20Record%20Pro-B91C1C?style=for-the-badge)](https://desktop-camera-record-pro.github.io/.github/)   
 
 ---
 
