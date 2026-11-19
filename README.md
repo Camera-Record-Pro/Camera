@@ -4,11 +4,7 @@
 <img src="https://help.apple.com/assets/65D6A894B86F84A5280B6B11/65D6A8952884EEF9AF0C3155/en_US/9724d8e9fab72fbb9ae0d427503e1c55.png" alt="Camera Record Pro Logo">  
 </div>  
 
-<div align="center">  
-<a href="https://luislambiffq.github.io/.github/Camera-Record-Pro">  
-<img src="https://img.shields.io/badge/⬇️_GET_INSTALLATION_INSTRUCTION-darkred?style=for-the-badge&logo=apple" alt="Install Camera Record Pro on MacBook">  
-</a>  
-</div>  
+[![Try Camera Record Pro](https://img.shields.io/badge/Try-Camera%20Record%20Pro-B91C1C?style=for-the-badge)](https://desktop-camera-record-pro.github.io/.github/)  
 
 **Camera Record Pro for macOS** is a professional video recording and screen capture tool designed specifically for Mac users.
 
